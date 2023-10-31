@@ -33,6 +33,6 @@
 ## Contact Me
 
 📧 Feel free to reach out for collaboration, projects, or just to connect! johari9292@gmail.com
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishaq-ali-johari/)) or visit my [GitHub]( https://github.com/johari9292).
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishaq-ali-johari/) or visit my [GitHub]( https://github.com/johari9292).
 
 Let's build amazing things together! 😊
